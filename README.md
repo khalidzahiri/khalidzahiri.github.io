@@ -1,3 +1,3 @@
 # khalidzahiri.github.io
 
-hello Worls 
+hello World
