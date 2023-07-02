@@ -1,14 +1,14 @@
 ---
 title: Ecommerce-sf6
 publishDate: 2020-03-02 00:00:00
-img: /assets/stock-1.jpg
+img: /assets/stock-1.jpg, /assets/stock-2.jpg, /assets/stock-3.jpg, /assets/stock-4.jpg
 img_alt: Iridescent ripples of a bright blue and pink liquid
 description: |
   développement d'un site E-commerce avec Symfony 6 et php8
 tags:
   - Design
-  - Dev
-  - User Testing
+  - Developpement
+  - Authentification
 ---
 
 Développement d'un site E-commerce et d'un Blog de technologies web avec l'envoie de mails a la creation du compte Développement d'un Blog avec Drupal
