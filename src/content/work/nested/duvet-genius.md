@@ -1,7 +1,7 @@
 ---
 title: DicoWeb
 publishDate: 2023-07-02 00:00:00
-img: /assets/web-technos1.png 
+img: /assets/maquette-DicoWeb.jpg
 img_alt: 
 description: |
   J'ai développé un site de technologies web avec symfony 5 et bootstrap, 
