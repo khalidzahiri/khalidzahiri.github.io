@@ -2,7 +2,7 @@
 title: Ecommerce-sf6
 publishDate: 2020-03-02 00:00:00
 img: /assets/stock-1.jpg
-img_alt:
+img_alt: Ecommerce
 description: |
   développement d'un site E-commerce avec Symfony 6 et php8
 tags:

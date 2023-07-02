@@ -2,7 +2,7 @@
 title: statistic site
 publishDate: 2023-07-01 00:00:00
 img: /assets/stock-2.jpg
-img_alt:
+img_alt: Site
 description: |
   BDD répertoriant les modules, leurs détails et l’historique de fonctionnement
   
