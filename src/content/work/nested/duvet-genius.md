@@ -1,6 +1,6 @@
 ---
 title: DicoWeb
-publishDate: 2023-07-02 00:00:00
+publishDate: 2023-07-01 00:00:00
 img: /assets/maquette-DicoWeb.jpg
 img_alt:
 description: |
